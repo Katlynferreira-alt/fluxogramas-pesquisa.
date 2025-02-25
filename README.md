@@ -42,6 +42,66 @@ Um fluxograma é um **diagrama que descreve um processo, sistema ou algoritmo de
 
 - **Entrada/saída**: assinala o processo de receber dados externos ou enviá-los.
 
+![image](https://github.com/user-attachments/assets/510554f5-5a99-4d9a-87ed-a18068e134b9)
+
+- **Exibição**: indica uma etapa que mostra informações pertinentes.
+
+![image](https://github.com/user-attachments/assets/245e162e-30b6-4280-81ed-e7bbd5e35c06)
+
+- **Documento**: representa um só documento.
+
+![image](https://github.com/user-attachments/assets/29ce5823-40e0-4517-868b-ed6700c72fcd)
+
+- **Atraso**: possibilita planejar e representar períodos de atraso que fazem parte do processo.
+
+![image](https://github.com/user-attachments/assets/02975213-1cb2-45fe-a482-24a109749125)
+
+- **Entrada manual**: evidencia dados e informações que devem ser inseridos no sistema manualmente.
+
+
+![image](https://github.com/user-attachments/assets/09504c7e-78c5-495e-95b3-fdc9b98da1fa)
+
+- **Operação manual**: indica que um ajuste ou operação manual precisa ser feito no processo.
+
+
+![image](https://github.com/user-attachments/assets/1326bc03-4525-4093-bb9f-c232b11fcd15)
+
+- **Conector a outra página**: liga dois símbolos que estão em páginas diferentes.
+
+
+![image](https://github.com/user-attachments/assets/9b8f6632-0b2b-4a53-9f02-3a5834f31dd3)
+
+- **Conector na mesma página**: este ponto conecta dois símbolos e pode substituir linhas extensas, o que simplifica a visualização do fluxograma.
+
+
+![image](https://github.com/user-attachments/assets/41b9d9e2-2eaf-491e-aa56-e8385d7139f5)
+
+- **Junção**: agrupa várias ramificações para que voltem a formar um único processo
+
+
+![image](https://github.com/user-attachments/assets/05e979fe-b6a4-4682-8ee4-994928397a45)
+
+- **Processo alternativo**: as linhas que levam a este símbolo costumam ser pontilhadas. Indica uma alternativa a uma etapa regular do processo, em caso de necessidade.
+
+
+![image](https://github.com/user-attachments/assets/bf3e9cd5-d4fc-408e-b8b6-53d177a5b17b)
+
+- **Processo predefinido**: representa um processo que está definido em outro lugar.
+
+
+![image](https://github.com/user-attachments/assets/9fcef988-017b-42d6-9419-b6ddf7e6d498)
+
+- **Documentos múltiplos**: simboliza um conjunto de documentos.
+
+
+![image](https://github.com/user-attachments/assets/754e0f4b-8d54-42f9-b2ad-ef4b35999f28)
+
+- **Preparação ou inicialização**: mostra uma etapa de preparação ou inicialização no processo.
+
+Depois de aprender o significado destes símbolos, é possível ler ou criar praticamente qualquer tipo de fluxograma e visualizar melhor os processos. Ao criar um fluxograma que utiliza diferentes formatos e símbolos, lembre-se de incluir uma legenda para torná-lo acessível à equipe.
+
+
+
 
 
 
