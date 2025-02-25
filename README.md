@@ -100,6 +100,56 @@ Um fluxograma é um **diagrama que descreve um processo, sistema ou algoritmo de
 
 Depois de aprender o significado destes símbolos, é possível ler ou criar praticamente qualquer tipo de fluxograma e visualizar melhor os processos. Ao criar um fluxograma que utiliza diferentes formatos e símbolos, lembre-se de incluir uma legenda para torná-lo acessível à equipe.
 
+# Como os fluxogramas são utilizados no Desenvolvimento de Sistemas?
+---
+
+Os fluxogramas são ferramentas visuais essenciais na programação, pois **permitem representar de forma clara a lógica por trás de algoritmos complexos**. Eles ajudam a visualizar a sequência de passos, entrada e saída de dados, processamento e tomada de decisões.
+
+- Os fluxogramas são fundamentais para representar a lógica por trás de algoritmos complexos
+- Permitem visualizar a sequência de passos, entrada e saída de dados, processamento e tomada de decisões
+- Facilitam a compreensão da lógica de programação, tanto para programadores quanto para iniciantes na área
+
+Um dos principais benefícios do uso de fluxogramas é a facilidade de detecção de problemas lógicos antes da codificação. Ao revisar um fluxograma, um programador pode identificar etapas ou decisões que não são coerentes ou que podem causar erros durante a execução do programa. Essa vantagem é especialmente relevante em projetos complexos, onde múltiplos caminhos lógicos devem ser considerados.
+
+# Exemplos de fluxogramas aplicados à lógica de programação
+---
+
+
+-
+![fluxograma](https://lh3.googleusercontent.com/proxy/eBIUPpwN0w1hSD1LbnPas-3VQQKXycamxqxddFHANgELY_tZlR7RjEVQjdcjpMLQrg0C4GrySTQOK40sM85WNUBxXBR1M9ugK3mS0She2D5lYmeV_ASkzQLnwfTn3HBEFEVBVsmeQN8FojkbLv7m0v8nKrCcQbh7RbIa5hbs72xTwA)
+
+-
+![image](https://github.com/user-attachments/assets/a451b31c-3213-4957-9652-5a7344a2c523)
+
+# Ferramentas que podem ser utilizadas para criar fluxogramas
+---
+
+Agora que você tem todo o conhecimento necessário para entender o que é um fluxograma, como ele é feito e quais são as suas aplicações, confira cinco exemplos de plataformas gratuitas e online que ajudarão você a desenhar os seus processos:
+
+- **Canva**: ferramenta gratuita que tem não só modelos de fluxograma para serem criados diretamente pelo navegador, mas também várias outras possibilidades de design em geral;
+- **Lucidchart**: ferramenta intuitiva e específica para criação de fluxogramas. É gratuita para a criação de três fluxos com até 60 formas cada;
+- **Miro**: solução criada para vários tipos de ferramentas gráficas, como mapas mentais, lousas online, diagramas, scrum e também fluxogramas. Também é gratuito para a criação de três fluxos e dispõe de mais de 2500 templates prontos;
+- **Draw.io**: aplicativo online que permite o usuário desenhar um fluxograma diretamente no navegador e salvar em diferentes locais, como Google Drive, One Drive, diretamente no computador, entre outros.
+- **Google Docs**: também é possível desenhar um fluxograma a partir da ferramenta de documentos em texto do Google! É necessário utilizar o recurso “Desenhos Google” para montar.
+
+# Prática ❤️
+## Exemplo de fluxograma para verificar se o número é par ou ímpar
+---
+
+![image](https://github.com/user-attachments/assets/bf17fe1a-12cd-4558-a00b-6b713cd7eefa)
+
+## Verificação:
+
+![image](https://github.com/user-attachments/assets/7311bcaa-dbdb-4922-b65e-3c5e357d5096)
+
+## Exemplo de fluxograma para um cadastro de usuário
+---
+
+![image](https://github.com/user-attachments/assets/58cb437d-8fcf-4412-b55d-0902a4e84461)
+
+
+
+
 
 
 
